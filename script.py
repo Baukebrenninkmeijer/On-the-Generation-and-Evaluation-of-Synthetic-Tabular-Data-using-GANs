@@ -34,7 +34,7 @@ for ds in datasets:
         raise Exception('Unknown dataset mentioned')
 
     project_name = "tgan-wgan-gp"
-    experiment = Experiment(api_key="49HGMPyIKjokHwg2pVOKWTG67",
+    experiment = Experiment(api_key=os.environ['COMETML_API_KEY'],
                             project_name=project_name, workspace="baukebrenninkmeijer")
     experiment.log_parameter('dataset', ds)
     print(f'ds: {ds}')
