@@ -17,7 +17,7 @@ If you're using this work, please cite the following work:
 ```
 @article{brenninkmeijer2019synthetic,
   title={On the Generation and Evaluation of Synthetic Tabular Data using GANs},
-  author={Brenninkmeijer, Bauke, De Vries, Arjen, Hille, Youri},
+  author={Bauke Brenninkmeijer, Youri Hille, Arjen P. de Vries},
   year={2019}
 }
 ```
