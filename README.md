@@ -10,7 +10,7 @@ With privacy regulations becoming stricter, the opportunity to apply synthetic d
 
 The data evaluation library can be found in an additional repository: [https://github.com/Baukebrenninkmeijer/Table_Evaluator](https://github.com/Baukebrenninkmeijer/Table_Evaluator).
 
-Motivation
+## Motivation
 To see the motivation for my decisions, please have a look at my master thesis, found at https://www.ru.nl/publish/pages/769526/z04_master_thesis_brenninkmeijer.pdf
 
 
